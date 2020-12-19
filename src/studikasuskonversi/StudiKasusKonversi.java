@@ -27,7 +27,7 @@ public class StudiKasusKonversi {
             }
         }
     }
-    
+   
     public static void jamKeMenit(long jam) {
         long menit = jam * 60;
         System.out.println("Menit: " + menit);
